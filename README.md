@@ -1,6 +1,4 @@
----
-
-Installation 🔧
+<h3 align="center">Installation 🔧 </h3>
 
 1. Download and Install : [Python](https://www.python.org/)
 1. A. Download and Install : [PIP](https://pypi.python.org/pypi/pip)
